@@ -7,7 +7,7 @@ imax = 20;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% digite seu codigo aqui
+% digite seu codigo aqui;
 t = 0;
 n_iter = 0; 
 ea = 100;
